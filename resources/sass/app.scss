@@ -5,5 +5,11 @@
 @import 'variables';
 
 // Bootstrap
-@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap/dist/css/bootstrap.css';
 @import '~admin-lte/dist/css/adminlte.min.css';
+
+// FontAwesome
+@import '~font-awesome/css/font-awesome.css';
+
+// AdminLTE
+@import '~admin-lte/dist/css/AdminLTE.css';

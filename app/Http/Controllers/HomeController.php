@@ -26,8 +26,7 @@ class HomeController extends Controller
         $data = [
             'name' => 'Dự',
             'age' => 18,
-
         ];
-        return view('test');
+        return view('test', $data);
     }
 }
